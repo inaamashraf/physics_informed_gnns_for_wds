@@ -1,0 +1,4 @@
+Test loss:  1.16e-06
+Test loss:  1.156e-05
+Test loss:  1.53e-06
+Test loss:  1.766e-05

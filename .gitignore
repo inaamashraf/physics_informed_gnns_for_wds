@@ -1,0 +1,12 @@
+
+*.pyc
+*.csv
+*.xlsx
+*.jpg
+*.png
+tmp/
+wandb/
+*.inp
+*.json
+*.pickle
+
